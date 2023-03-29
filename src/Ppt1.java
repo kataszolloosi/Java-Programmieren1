@@ -1,8 +1,6 @@
-import com.sun.source.doctree.AttributeTree;
-
 import java.util.Scanner;
 
-public class One {
+public class Ppt1 {
     public static void main(String[] args) {
         // Sie schreiben ein Programm welches Ihnen die exakte Strafe
         //bei einer Geschwindigkeitsüberschreitung berechnet
@@ -11,7 +9,7 @@ public class One {
         int geschwindigkeit = scanner.nextInt();
         int erlaubt = 50;
         int ueberschreitung = geschwindigkeit- erlaubt;
-        int strafe = 0;
+        double strafe = 0;
 
         if(ueberschreitung <=0 ) {
             System.out.println("Gute fahrt!");
@@ -51,6 +49,43 @@ public class One {
         }
 
         System.out.println("finale strafe: " + strafe);
+
+        System.out.println("Welche motane ist es? ");
+        String monate = scanner.next();
+
+        switch (monate.toLowerCase()) {   //egal groß oder klein schreibe ich ein
+            case "januar":
+            case "februar":
+                System.out.println("keine rabatte möglich");
+                break;
+            case "marz":
+            case "april":
+                System.out.println("10% rabatt auf die gesamte strafe");
+                strafe = strafe * 0.9;
+                break;
+            case "mai":
+            case "juni":
+                System.out.println("15% rabatt auf die gesamte strafe");
+                strafe = strafe * 0.85;
+                break;
+            case "juli":
+            case "august":
+                System.out.println("20% rabatt auf die gesamte strafe");
+                strafe = strafe * 0.8;
+                break;
+            case "september":
+            case "oktober":
+                System.out.println("25% rabatt auf die gesamte strafe");
+                strafe = strafe * 0.75;
+                break;
+            case "november":
+            case "dezember":
+                System.out.println("30% rabatt auf die gesamte strafe");
+                strafe = strafe * 0.7;
+                break;
+        }
+
+            System.out.println("finale strafe nach dem rabatt: " + strafe);
 
     }
 }
