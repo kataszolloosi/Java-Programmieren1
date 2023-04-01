@@ -1,8 +1,8 @@
-package Part2;
+package Part2Schleife;
 
 import java.util.Scanner;
 
-public class whileDoWhile {
+public class WhileDoWhile {
 
     public static void main(String[] args) {
         //while

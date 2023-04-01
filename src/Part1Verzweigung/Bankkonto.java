@@ -1,8 +1,8 @@
-package Part1;
+package Part1Verzweigung;
 
 import java.util.Scanner;
 
-public class Part1U3 {
+public class Bankkonto {
     //Schreiben Sie ein Java-Programm, das Bankkontotransaktionen simuliert
     //ein Menü mit Optionen für die Durchführung von Transaktionen präsentieren
     public static void main(String[] args) {

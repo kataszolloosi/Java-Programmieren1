@@ -1,6 +1,6 @@
-package Part2;
+package Part2Schleife;
 
-public class forLoop {
+public class ForLoop {
     public static void main(String[] args) {
         //for
         //Schreiben Sie ein Programm, das die Zahlen 1 bis 10 ausgibt

@@ -1,8 +1,8 @@
-package Part1;
+package Part1Verzweigung;
 
 import java.util.Scanner;
 
-public class Ppt {
+public class Strafe {
     public static void main(String[] args) {
         // Sie schreiben ein Programm welches Ihnen die exakte Strafe
         //bei einer Geschwindigkeitsüberschreitung berechnet

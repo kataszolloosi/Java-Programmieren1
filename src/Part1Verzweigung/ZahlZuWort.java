@@ -1,8 +1,8 @@
-package Part1;
+package Part1Verzweigung;
 
 import java.util.Scanner;
 
-public class Part1U2 {
+public class ZahlZuWort {
     //Schreiben Sie ein Java-Programm, das den Benutzer auffordert, eine Zahl zwischen 1
     //und 10 (einschließlich) einzugeben, und dann das englische Wort für diese Zahl ausgibt.
     //Wenn der Benutzer eine ungültige Zahl eingibt, sollte das Programm eine Fehlermeldung

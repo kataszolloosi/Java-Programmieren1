@@ -1,8 +1,8 @@
-package Part1;
+package Part1Verzweigung;
 
 import java.util.Scanner;
 
-public class Part1U4 {
+public class MenuSystem {
     //Menusystem, umgekehrte stringausgabe,zahl prüfen, vokale zählen, fakultat berechnen, exit
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

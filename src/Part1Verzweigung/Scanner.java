@@ -1,13 +1,11 @@
-package Part1;
+package Part1Verzweigung;
 
-import java.util.Scanner;
-
-public class Part1U1 {
+public class Scanner {
     //Schreiben Sie ein Java-Programm, das den Benutzer auffordert, seinen Namen und sein
     //Alter einzugeben, und dann eine Meldung ausgibt, die lautet: "Hallo, [Name]! Du bist
     //[Alter] Jahre alt."
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+        java.util.Scanner scanner = new java.util.Scanner(System.in);
         System.out.println("bitte ihre vorname: ");
         String vorname = scanner.next();
         System.out.println("bitte ihre nachname: ");
