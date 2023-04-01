@@ -1,3 +1,5 @@
+package Part1;
+
 import java.util.Scanner;
 
 public class Part1U3 {
@@ -7,12 +9,12 @@ public class Part1U3 {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter your account balance: ");
         int balance = scanner.nextInt();
-        int choice =0;
+        int choice = 0;
 
+        //menu erstellen
         int eingabe;
-        while(choice != 4) {
+        while (choice != 4) {
 
-            //menu erstellen
             System.out.println("Menu: ");
             System.out.println("1. Deposit");  //befizetes
             System.out.println("2. Withdraw");   //felvetel
@@ -33,9 +35,10 @@ public class Part1U3 {
                 System.out.println("your new balance: " + balance);
             } else if (choice == 3) {
                 System.out.println("your balance: " + balance);
+            } else if (choice == 4) {
+                System.out.println("Goodbye");
             } else {
-                System.out.println("programm beendet");
-
+                System.out.println("Invalid choice");
             }
         }
     }

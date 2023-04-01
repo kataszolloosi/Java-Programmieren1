@@ -1,3 +1,5 @@
+package Part1;
+
 import java.util.Scanner;
 
 public class Part1U4 {
@@ -6,12 +8,12 @@ public class Part1U4 {
         Scanner scanner = new Scanner(System.in);
         int choice;
         do {
-            System.out.println("\nPlease choose from the following options:");
+            System.out.println("Please choose from the following options:");
             System.out.println("1. Reverse a string");
             System.out.println("2. Check if an integer is even or odd");
             System.out.println("3. Count the number of vowels in a phrase");
             System.out.println("4. Calculate the factorial of a positive integer");
-                    System.out.println("5. Exit");
+            System.out.println("5. Exit");
             choice = scanner.nextInt();
             switch (choice) {
                 case 1:
@@ -35,6 +37,7 @@ public class Part1U4 {
         } while (choice != 5);
         scanner.close();
     }
+
     public static void reverseString() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Please enter a string: ");
@@ -45,6 +48,7 @@ public class Part1U4 {
         }
         System.out.println("Reversed string: " + reversed);
     }
+
     public static void checkEvenOrOdd() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Please enter an integer: ");
@@ -55,6 +59,7 @@ public class Part1U4 {
             System.out.println(num + " is odd.");
         }
     }
+
     public static void countVowels() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Please enter a phrase: ");
@@ -68,6 +73,7 @@ public class Part1U4 {
         }
         System.out.println("Number of vowels in phrase: " + count);
     }
+
     public static void calculateFactorial() {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Please enter a positive integer: ");

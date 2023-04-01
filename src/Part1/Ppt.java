@@ -1,6 +1,8 @@
+package Part1;
+
 import java.util.Scanner;
 
-public class Ppt1 {
+public class Ppt {
     public static void main(String[] args) {
         // Sie schreiben ein Programm welches Ihnen die exakte Strafe
         //bei einer Geschwindigkeitsüberschreitung berechnet
