@@ -15,7 +15,7 @@ public class DynamischArray {
         for(int i=0; i< name.length; i++) {
             System.out.println("bitte name "+i+" eingeben");
             name[i] = scanner.next();
-        } //array als string ausgeben ausgeben
+        } //array als string ausgeben
         System.out.println(Arrays.toString(name));
 
     }

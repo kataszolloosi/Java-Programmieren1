@@ -1,22 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="912fe401-0dc4-41a8-9363-211bda070d59" name="Changes" comment="01.04">
-      <change afterPath="$PROJECT_DIR$/src/Part2Schleife/WortCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part3Array/DynamischArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part3Array/ForEach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part3Array/GeradeZahlen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part3Array/SummeGrossKleinDurchschnitt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part3Array/TeilnehmerNamen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3Array/Uebung1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3Array/Uebung2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3Array/Uebung3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3Array/Uebung4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3Array/Uebung5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3Array/Uebung6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3Array/Uebung7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3Array/Uebung8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part1/Part1U1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part1Verzweigung/Scanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part1/Part1U2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part1Verzweigung/ZahlZuWort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part1/Part1U3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part1Verzweigung/Bankkonto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part1/Part1U4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part1Verzweigung/MenuSystem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part1/Ppt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part1Verzweigung/Strafe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part2/continueBreak.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part2Schleife/ContinueBreak.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part2/forLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part2Schleife/ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part2/whileDoWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part2Schleife/WhileDoWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part3Array/DynamischArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/DynamischArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +46,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SummeGrossKleinDurchschnitt">
-    <configuration name="DynamischArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part3Array.DynamischArray" />
+  <component name="RunManager" selected="Application.Uebung7">
+    <configuration name="Uebung3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part3Array.Uebung3" />
       <module name="Ueben" />
       <extension name="coverage">
         <pattern>
@@ -65,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part3Array.ForEach" />
+    <configuration name="Uebung4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part3Array.Uebung4" />
       <module name="Ueben" />
       <extension name="coverage">
         <pattern>
@@ -78,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GeradeZahlen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part3Array.GeradeZahlen" />
+    <configuration name="Uebung5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part3Array.Uebung5" />
       <module name="Ueben" />
       <extension name="coverage">
         <pattern>
@@ -91,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part1Verzweigung.Scanner" />
+    <configuration name="Uebung6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part3Array.Uebung6" />
       <module name="Ueben" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Part1Verzweigung.*" />
+          <option name="PATTERN" value="Part3Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,8 +106,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SummeGrossKleinDurchschnitt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part3Array.SummeGrossKleinDurchschnitt" />
+    <configuration name="Uebung7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part3Array.Uebung7" />
       <module name="Ueben" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SummeGrossKleinDurchschnitt" />
-        <item itemvalue="Application.ForEach" />
-        <item itemvalue="Application.DynamischArray" />
-        <item itemvalue="Application.Scanner" />
-        <item itemvalue="Application.GeradeZahlen" />
+        <item itemvalue="Application.Uebung7" />
+        <item itemvalue="Application.Uebung6" />
+        <item itemvalue="Application.Uebung5" />
+        <item itemvalue="Application.Uebung4" />
+        <item itemvalue="Application.Uebung3" />
       </list>
     </recent_temporary>
   </component>
@@ -138,7 +140,8 @@
       <workItem from="1680008017525" duration="2568000" />
       <workItem from="1680070729593" duration="44000" />
       <workItem from="1680089781479" duration="4289000" />
-      <workItem from="1680344274062" duration="10209000" />
+      <workItem from="1680344274062" duration="10383000" />
+      <workItem from="1680433189766" duration="3532000" />
     </task>
     <task id="LOCAL-00001" summary="von anfang">
       <created>1680011703646</created>
@@ -154,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680352531738</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="01.04">
+      <created>1680380042446</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680380042446</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
