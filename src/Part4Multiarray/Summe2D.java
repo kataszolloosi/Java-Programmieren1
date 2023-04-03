@@ -10,7 +10,7 @@ public class Summe2D {
         //2D -- 2 for:each schleife
         System.out.println("---------For:Each schleife----");
         for (double[] i : zahlen) {  //erste dimension
-            for (double j : i) {
+            for (double j : i) {     //zweite dimension
                 //hier bekommen wir die einzelnen werte
                 summe = summe + j;
             }

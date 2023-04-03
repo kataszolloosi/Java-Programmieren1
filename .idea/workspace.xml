@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="912fe401-0dc4-41a8-9363-211bda070d59" name="Changes" comment="02.04">
-      <change afterPath="$PROJECT_DIR$/src/Part4Multiarray/Dim4Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part4Multiarray/Summe2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4Multiarray/DreiDimensionalesArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4Multiarray/EinzelneSummeVergleichen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part4Multiarray/Spielereien.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part4Multiarray/Summe2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part4Multiarray/Summe2D.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,9 +48,35 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Summe2D">
-    <configuration name="Dim4Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part4Multiarray.Dim4Array" />
+  <component name="RunManager" selected="Application.DreiDimensionalesArray">
+    <configuration name="DreiDimensionalesArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part4Multiarray.DreiDimensionalesArray" />
+      <module name="Ueben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part4Multiarray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EinzelneSummeVergleichen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part4Multiarray.EinzelneSummeVergleichen" />
+      <module name="Ueben" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Part4Multiarray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spielereien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part4Multiarray.Spielereien" />
       <module name="Ueben" />
       <extension name="coverage">
         <pattern>
@@ -73,34 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SummeGrossKleinDurchschnitt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part3Array.SummeGrossKleinDurchschnitt" />
-      <module name="Ueben" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Part3Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Uebung10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part3Array.Uebung10" />
-      <module name="Ueben" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Part3Array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Uebung9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part3Array.Uebung9" />
+    <configuration name="Uebung5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part3Array.Uebung5" />
       <module name="Ueben" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DreiDimensionalesArray" />
+        <item itemvalue="Application.Spielereien" />
+        <item itemvalue="Application.EinzelneSummeVergleichen" />
+        <item itemvalue="Application.Uebung5" />
         <item itemvalue="Application.Summe2D" />
-        <item itemvalue="Application.Dim4Array" />
-        <item itemvalue="Application.SummeGrossKleinDurchschnitt" />
-        <item itemvalue="Application.Uebung10" />
-        <item itemvalue="Application.Uebung9" />
       </list>
     </recent_temporary>
   </component>
@@ -135,7 +137,8 @@
       <workItem from="1680089781479" duration="4289000" />
       <workItem from="1680344274062" duration="10383000" />
       <workItem from="1680433189766" duration="3550000" />
-      <workItem from="1680448782201" duration="6095000" />
+      <workItem from="1680448782201" duration="6106000" />
+      <workItem from="1680546381702" duration="3129000" />
     </task>
     <task id="LOCAL-00001" summary="von anfang">
       <created>1680011703646</created>
@@ -172,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680450241783</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="02.04">
+      <created>1680463989997</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680463989997</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
