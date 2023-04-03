@@ -1,6 +1,6 @@
 package Part3Array;
 
-public class Uebung3 {
+public class StringsLaenge {
     //Schreibe ein Programm, das ein Array von 8 Strings erzeugt
     //und die Länge jedes Strings im Array ausgibt
     public static void main(String[] args) {

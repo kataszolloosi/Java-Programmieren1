@@ -1,6 +1,6 @@
 package Part3Array;
 
-public class Uebung2 {
+public class GroessteElement {
     //Schreibe ein Programm, das ein Array von 5 Gleitkommazahlen erzeugt
     // und das größte Element im Array findet und ausgibt
     public static void main(String[] args) {

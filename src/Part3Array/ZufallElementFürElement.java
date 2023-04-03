@@ -2,7 +2,7 @@ package Part3Array;
 
 import java.util.Random;
 
-public class Uebung5 {
+public class ZufallElementFürElement {
     //Schreibe ein Programm, das ein Array von 15 Zufallszahlen zwischen 1 und 100 erzeugt
     // und alle Elemente, einzeln im Array ausgibt
     public static void main(String[] args) {

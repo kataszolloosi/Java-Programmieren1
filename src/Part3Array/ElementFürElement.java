@@ -1,8 +1,6 @@
 package Part3Array;
 
-import java.util.Arrays;
-
-public class Uebung1 {
+public class ElementFürElement {
     //Schreibe ein Programm, das ein Array von 10 Ganzzahlen erzeugt
     // und diese anschließend Element für Element in der Konsole ausgibt
     public static void main(String[] args) {

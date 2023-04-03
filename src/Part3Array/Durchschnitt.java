@@ -1,6 +1,6 @@
 package Part3Array;
 
-public class Uebung10 {
+public class Durchschnitt {
     //Schreibe ein Programm, das ein Array von 9 Gleitkommazahlen erzeugt
     //und das durchschnittliche Element im Array berechnet und ausgibt
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
 package Part3Array;
 
-public class Uebung7 {
+public class BestimmteBuchstaben {
     //Schreibe ein Programm, das ein Array von 10 Strings erzeugt
     // und diejenigen Strings im Array ausgibt, die mit einem bestimmten Buchstaben beginnen
     public static void main(String[] args) {

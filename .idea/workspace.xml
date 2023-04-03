@@ -4,12 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="912fe401-0dc4-41a8-9363-211bda070d59" name="Changes" comment="02.04">
-      <change afterPath="$PROJECT_DIR$/src/Part4Multiarray/DreiDimensionalesArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part4Multiarray/EinzelneSummeVergleichen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Part4Multiarray/Spielereien.java" afterDir="false" />
+    <list default="true" id="912fe401-0dc4-41a8-9363-211bda070d59" name="Changes" comment="03.04">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part4Multiarray/Summe2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part4Multiarray/Summe2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/ElementFürElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/Durchschnitt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/GroessteElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/StringsLaenge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/SummeAlle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/ZufallElementFürElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/GeradeUngerade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/BestimmteBuchstaben.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/GroessteDurchBenutzer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/KleinsteZahl.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,8 +107,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Uebung5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part3Array.Uebung5" />
+    <configuration name="ZufallElementFürElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part3Array.ZufallElementFürElement" />
       <module name="Ueben" />
       <extension name="coverage">
         <pattern>
@@ -119,7 +125,7 @@
         <item itemvalue="Application.DreiDimensionalesArray" />
         <item itemvalue="Application.Spielereien" />
         <item itemvalue="Application.EinzelneSummeVergleichen" />
-        <item itemvalue="Application.Uebung5" />
+        <item itemvalue="Application.ZufallElementFürElement" />
         <item itemvalue="Application.Summe2D" />
       </list>
     </recent_temporary>
@@ -138,7 +144,7 @@
       <workItem from="1680344274062" duration="10383000" />
       <workItem from="1680433189766" duration="3550000" />
       <workItem from="1680448782201" duration="6106000" />
-      <workItem from="1680546381702" duration="3129000" />
+      <workItem from="1680546381702" duration="4088000" />
     </task>
     <task id="LOCAL-00001" summary="von anfang">
       <created>1680011703646</created>
@@ -182,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680463989997</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="03.04">
+      <created>1680549823871</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1680549823871</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,6 +216,7 @@
     <MESSAGE value="von anfang" />
     <MESSAGE value="01.04" />
     <MESSAGE value="02.04" />
-    <option name="LAST_COMMIT_MESSAGE" value="02.04" />
+    <MESSAGE value="03.04" />
+    <option name="LAST_COMMIT_MESSAGE" value="03.04" />
   </component>
 </project>

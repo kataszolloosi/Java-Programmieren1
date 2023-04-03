@@ -2,7 +2,7 @@ package Part3Array;
 
 import java.util.Scanner;
 
-public class Uebung8 {
+public class GroessteDurchBenutzer {
     //Schreiben Sie ein Programm, das die Elemente eines Arrays mit 10 ganzen Zahlen von der Konsole einliest
     //und dann das größte Element findet und ausgibt
     public static void main(String[] args) {

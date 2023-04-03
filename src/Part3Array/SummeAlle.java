@@ -1,6 +1,6 @@
 package Part3Array;
 
-public class Uebung4 {
+public class SummeAlle {
     //Schreibe ein Programm, das ein Array von 12 Ganzzahlen erzeugt
     // und eine Summe aller Elemente im Array berechnet
     public static void main(String[] args) {

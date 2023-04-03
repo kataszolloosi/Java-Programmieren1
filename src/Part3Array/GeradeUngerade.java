@@ -1,6 +1,6 @@
 package Part3Array;
 
-public class Uebung6 {
+public class GeradeUngerade {
     //Schreibe ein Programm, das ein Array von 20 Ganzzahlen erzeugt
     // und nur die geraden Zahlen im Array ausgibt
     public static void main(String[] args) {

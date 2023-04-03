@@ -1,6 +1,6 @@
 package Part3Array;
 
-public class Uebung9 {
+public class KleinsteZahl {
     //Schreiben ein Programm, das ein Array von 6 Ganzzahlen erzeugt
     //und das kleinste Element im Array findet und ausgibt
     public static void main(String[] args) {
