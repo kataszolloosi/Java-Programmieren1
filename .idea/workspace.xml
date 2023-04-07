@@ -5,17 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="912fe401-0dc4-41a8-9363-211bda070d59" name="Changes" comment="03.04">
+      <change afterPath="$PROJECT_DIR$/src/Part5OOP/Auto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5OOP/AutoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5OOP/Grundsteuer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5OOP/GrundsteuerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5OOP/Hund.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5OOP/HundMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5OOP/Katze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5OOP/KatzeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5OOP/Quader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5OOP/QuaderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5OOP/Rechteck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5OOP/RechteckMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5OOP/Rezept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5OOP/RezeptApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5OOP/Tamagochi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5OOP/TamagochiTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5OOP/Teilnehmer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part5OOP/TeilnehmerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part6Methodenüberladung/Drucker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part6Methodenüberladung/DruckerMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part6Methodenüberladung/Rechner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part6Methodenüberladung/RechnerMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/ElementFürElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/Durchschnitt.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/GroessteElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/StringsLaenge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/SummeAlle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/ZufallElementFürElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/GeradeUngerade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/BestimmteBuchstaben.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/GroessteDurchBenutzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Part3Array/Uebung9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part3Array/KleinsteZahl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Part4Multiarray/DreiDimensionalesArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Part4Multiarray/DreiDimensionalesArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,13 +67,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DreiDimensionalesArray">
-    <configuration name="DreiDimensionalesArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part4Multiarray.DreiDimensionalesArray" />
+  <component name="RunManager" selected="Application.DruckerMain">
+    <configuration name="AutoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part5OOP.AutoTest" />
       <module name="Ueben" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Part4Multiarray.*" />
+          <option name="PATTERN" value="Part5OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EinzelneSummeVergleichen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part4Multiarray.EinzelneSummeVergleichen" />
+    <configuration name="DruckerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part6Methodenüberladung.DruckerMain" />
       <module name="Ueben" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Part4Multiarray.*" />
+          <option name="PATTERN" value="Part6Methodenüberladung.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Spielereien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part4Multiarray.Spielereien" />
+    <configuration name="RechnerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part6Methodenüberladung.RechnerMain" />
       <module name="Ueben" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Part4Multiarray.*" />
+          <option name="PATTERN" value="Part6Methodenüberladung.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Summe2D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part4Multiarray.Summe2D" />
+    <configuration name="RezeptApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part5OOP.RezeptApp" />
       <module name="Ueben" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Part4Multiarray.*" />
+          <option name="PATTERN" value="Part5OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZufallElementFürElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Part3Array.ZufallElementFürElement" />
+    <configuration name="TamagochiTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Part5OOP.TamagochiTest" />
       <module name="Ueben" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Part3Array.*" />
+          <option name="PATTERN" value="Part5OOP.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +135,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DreiDimensionalesArray" />
-        <item itemvalue="Application.Spielereien" />
-        <item itemvalue="Application.EinzelneSummeVergleichen" />
-        <item itemvalue="Application.ZufallElementFürElement" />
-        <item itemvalue="Application.Summe2D" />
+        <item itemvalue="Application.DruckerMain" />
+        <item itemvalue="Application.RechnerMain" />
+        <item itemvalue="Application.TamagochiTest" />
+        <item itemvalue="Application.RezeptApp" />
+        <item itemvalue="Application.AutoTest" />
       </list>
     </recent_temporary>
   </component>

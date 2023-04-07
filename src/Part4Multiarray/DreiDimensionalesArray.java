@@ -1,7 +1,6 @@
 package Part4Multiarray;
 
 import java.util.Random;
-
 public class DreiDimensionalesArray {
     //Erstelle ein dreidimensionales Array mit den Dimensionen 4x3x2
     //fülle jedes Element mit einer zufälligen double Zahl zwischen 0.0 und 1.0 auf
